@@ -1,0 +1,18 @@
+{
+  "name": "ClinicPro Enterprise Suite",
+  "version": "2.4.0",
+  "releaseDate": "2026-10-30",
+  "publisher": "DEV SEC IT",
+  "installer": "ClinicPro Suite Setup.exe",
+  "theme": "desktop-csharp",
+  "changelog": [
+    "Native Rust desktop client with high-speed zero-leak runtime",
+    "Stethoscope medical icon badge with multi-resolution desktop icon",
+    "Fixed POS checkout drawer and modals z-index layering above menubar",
+    "Strict phone number and email validation across auth and clinic onboarding",
+    "Smooth onboarding redirection for newly registered users",
+    "Integrated Patient Registry, EMR Dossiers, Appointments, and Pharmacy POS Billing",
+    "Single-binary installation with zero exposed loose folders"
+  ]
+}
+
